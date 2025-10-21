@@ -179,3 +179,79 @@ If your emphasis is on **secure defense software**, focus your roadmap like this
 ---
 
 
+
+
+
+### 4chan Resources
+
+>Lisp is a family of programming languages with a long history and a distinctive parenthesized prefix notation. There are many dialects of Lisp, including Common Lisp, Scheme, Clojure and Elisp.
+
+>Emacs is an extensible, customizable, self-documenting free/libre text editor and computing environment, with a Lisp interpreter at its core.
+
+>Emacs Resources
+https://gnu.org/s/emacs
+https://github.com/emacs-tw/awesome-emacs
+https://github.com/systemcrafters/crafted-emacs
+
+>Learning Emacs
+C-h t (Interactive Tutorial)
+https://emacs-config-generator.fly.dev
+https://systemcrafters.net/emacs-from-scratch
+http://xahlee.info/emacs
+https://emacs.tv
+
+>Emacs Distros
+https://spacemacs.org
+https://doomemacs.org
+
+>Elisp
+Docs: C-h f [function] C-h v [variable] C-h k [keybinding] C-h m [mode] M-x ielm [REPL]
+https://gnu.org/s/emacs/manual/eintr.html
+https://gnu.org/s/emacs/manual/elisp.html
+https://github.com/emacs-tw/awesome-elisp
+
+>Common Lisp
+https://lispcookbook.github.io/cl-cookbook
+https://cs.cmu.edu/~dst/LispBook
+https://gigamonkeys.com/book
+https://lem-project.github.io
+https://stumpwm.github.io
+https://nyxt-browser.com
+https://awesome-cl.com
+
+>Scheme
+https://scheme.org
+https://try.scheme.org
+https://get.scheme.org
+https://books.scheme.org
+https://standards.scheme.org
+https://go.scheme.org/awesome
+https://research.scheme.org/lambda-papers
+
+>Clojure
+https://clojure.org
+https://tryclojure.org
+https://clojure-doc.org
+https://calva.io
+https://clojure.land
+https://www.clojure-toolbox.com
+https://mooc.fi/courses/2014/clojure
+https://clojure.org/community/resources
+
+>Other
+https://github.com/dundalek/awesome-lisp-languages
+
+>Guix
+https://guix.gnu.org
+https://nonguix.org
+https://systemcrafters.net/craft-your-system-with-guix
+https://futurile.net/resources/guix
+https://github.com/franzos/awesome-guix
+
+>SICP/HtDP
+https://web.mit.edu/6.001/6.037/sicp.pdf
+https://htdp.org
+
+>More Lisp Resources
+https://lisp.nexus
+https://rentry.org/lispresources
